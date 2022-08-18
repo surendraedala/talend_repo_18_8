@@ -1,0 +1,43 @@
+[ {
+  "baseItem" : {
+    "id" : "_Q1lEIB4aEe2Yt8Pd1zyX2A",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Kn8kkB4XEe2Yt8Pd1zyX2A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Kn8kkB4XEe2Yt8Pd1zyX2A - airfares_1",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Kn8kkB4XEe2Yt8Pd1zyX2A - airfares_2",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_bCVY0B1mEe2XqvokD8wXog",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Kn8kkB4XEe2Yt8Pd1zyX2A",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_Kn8kkB4XEe2Yt8Pd1zyX2A - airfares_1",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Kn8kkB4XEe2Yt8Pd1zyX2A - airfares_2",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_Kn8kkB4XEe2Yt8Pd1zyX2A - airfares_3",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
